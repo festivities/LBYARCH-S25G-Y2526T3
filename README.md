@@ -161,9 +161,9 @@ runs are reproducible.
 
 ## Screenshot of the program output with the correctness check
 
-![Program output with correctness check](screenshot.png)
-
 For reference, here is the console output shown in the screenshot (`app.exe < sample.txt`):
+
+![Program output with correctness check](screenshot.png)
 
 ```
 Enter the height and width of the image: Enter 12 double float pixel values in [0.0, 1.0]:
@@ -185,6 +185,4 @@ Average execution time of imgCvtGrayDoubleToInt() over 30 runs:
 ```
 
 ## Video
-
-[![Video walk through code, compilation and execution](https://youtube.com)](https://youtu.be/yt0n51vFDe4?si=eanUynAHNA_6NQrT)
-
+(https://youtu.be/yt0n51vFDe4?si=eanUynAHNA_6NQrT)
